@@ -1,0 +1,15 @@
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\bin\Debug\net8.0\Final_exam.exe
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\bin\Debug\net8.0\Final_exam.deps.json
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\bin\Debug\net8.0\Final_exam.runtimeconfig.json
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\bin\Debug\net8.0\Final_exam.dll
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\bin\Debug\net8.0\Final_exam.pdb
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.AssemblyInfo.cs
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.sourcelink.json
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.dll
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\refint\Final_exam.dll
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.pdb
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\Final_exam.genruntimeconfig.cache
+C:\Users\User\OneDrive\Рабочий стол\Final_exam\obj\Debug\net8.0\ref\Final_exam.dll
